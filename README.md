@@ -8,3 +8,4 @@ Cursos Finalizados:
 * Data Visualization
 * Pandas
 * Estatística 01
+* Estatística 02
