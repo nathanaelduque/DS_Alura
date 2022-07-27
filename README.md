@@ -9,3 +9,4 @@ Cursos Finalizados:
 * Pandas
 * Estatística 01
 * Estatística 02
+* Regressão Linear
