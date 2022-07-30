@@ -11,5 +11,6 @@ Cursos Finalizados:
 * [Estatística 02](https://github.com/nathanaelduque/DS_Alura/tree/main/Estat%C3%ADstica%2002)
 * [Regressão Linear](https://github.com/nathanaelduque/DS_Alura/tree/main/Reg.Linear)
 * [Regressão Linear - Tratando Distribuições](https://github.com/nathanaelduque/DS_Alura/tree/main/Reg.Linear%20-%20Tratando%20Distri.)
+* [Dta Visualization - Google Sheets](https://github.com/nathanaelduque/DS_Alura/tree/main/Data%20Visualization%20-%20Sheets)
 * [Data Visualization - Matplotlib](https://github.com/nathanaelduque/DS_Alura/tree/main/Data%20Visualization%20-%20Matplotlib)
 
